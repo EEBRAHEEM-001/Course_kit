@@ -1,0 +1,304 @@
+body{
+    background-color: #0d1c33;
+}
+.container{
+    background-color: #0d1c33;
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+
+}
+.first{
+    padding: 15px;
+
+}
+a{
+    text-decoration: none;
+    color: #f2f7fc;
+    font-size: 18px;
+    font-weight:  700px;
+    
+}
+.second{
+    justify-content: space-between ;
+    /* padding: 25px 25px 25px 35px; */
+    word-spacing: 48px;
+}
+.third{
+    padding-top: 25px;
+    justify-content: space-between;
+    word-spacing: 25px;
+    margin-bottom: 10px;
+}
+.btn{
+    /* padding: 15px; */
+    border-radius: 50px;
+    width: 150px;
+    height: 65px;
+    background-color: #ffc2c0;
+    font-weight: 700;
+}
+button a{
+    color:#0d1c33 ;
+    font-weight: 700px;
+}
+.forth{
+    display: flex;
+    align-items: center;
+} 
+.fifth{
+    /* font-size:50px; */
+    /* font-weight: 900; */
+    margin-left: 200px;
+    padding-right: 100px;
+    margin-bottom: 250px; 
+}
+p{
+    font-style: normal;
+    font-size: 65px;
+    line-height: 90px;
+    font-weight: 700;
+    color: #f2f7fc;
+}
+span{
+    font-weight: bolder;
+    font-size: 20px;
+}
+.sixth{
+    font-size:  25px;
+}
+center{
+    margin-top: 12px;
+}
+center button {
+    border-radius: 100%;
+    background-color: #f2f7fc;
+    cursor: pointer;
+}
+.seventh{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+center b{
+    color: #f2f7fc;
+    font-size: 50px;
+}
+.eight{
+    text-align: center;
+}
+.tenth{
+    text-align: center;
+}
+.tenth p span{
+    font-size: 45px;
+    font-weight: 600;
+}
+.super{
+    color: #f2f7fc;
+    font-size: 25px;
+}
+.bttn2{
+    background-color: #ffc2c0;
+    border: 3px solid #fffbfb;
+    border-radius: 50px ;
+    padding: 20px;
+    width: 250px;
+    opacity: 0.3;
+}
+.txt-pink{
+    color: #0d1c33;
+    font-weight: 700;
+    font-size: 20px;
+}
+.eleventh{
+    display: block;
+    background: #1a2d49;
+}
+.kida{
+    display: flex;
+    margin-top: 50px;
+    /* padding-left: 20px;  */
+}
+.liber{
+    margin-top: 70px;
+    padding-left: 50px;
+    color: #fffbfb;
+    font-size: 25px;
+}
+.big-txt{
+    font-size: 45px;
+}
+.twelveth{
+    align-items: baseline;
+}
+.twelveth img{
+    width: 1580px;
+}
+.thirteenth{
+    margin-top: 35px;
+}
+.img-sz{
+    margin-right: 30px;
+    margin-left: 30px;
+    width: 100px;
+    height: 150px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+
+}
+.flx{
+    display: flex;
+}
+.sub{
+    background-color: #041227;
+    border-radius: 30px; 
+    width: 600px;
+    height: 300px;
+    margin-left:35px;
+}
+.txt-wht{
+    color: #f2f7fc;
+}
+.txt-sz{
+    font-size: 25px;
+}
+.forteenth{
+    margin-top: 45px;
+}
+.img-center{
+    text-align: center;
+}
+
+.block {
+    display: block;
+}
+
+.center-align {
+    text-align: center;
+}
+
+.center img {
+    display: block;
+}
+.mg-top{
+    margin-top: 50px;
+}
+.sp-arround{
+    justify-content: space-around;
+    
+}
+.txt-pink{
+    color: rgb(209, 68, 186);
+}
+.txt-45{
+    font-size: 45px;
+    font-weight: 900;
+}
+.bg-blue{
+    background-color: #0d1c33;
+}
+.knight{
+    width: 600px;
+    height: 300px;
+}
+.pd-35{
+    padding-top: 55px;
+}
+.mini{
+    height: 50px;
+    width: 100px;
+    background-color: rgb(48, 48, 214);
+    border: #1a2d49;
+    border-radius: 15px;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+.mini1{
+    background-color: #0d1c33;
+    margin-left:15px ;
+}
+.j-cont{
+    justify-content: center;
+}
+.ul li{
+    padding-left: 20px;
+    background-image: url("Icon Button.svg");
+    background-position: top left;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    list-style-type: none;
+}
+.cool{
+    margin-left: 100px;
+
+}
+.deev-sz{
+    background-color: #0d1c33;
+    width: 400px;
+    height: 700px;
+    border-radius: 15px;
+    border: solid #1a2d49;
+    margin-left: 40px;
+}
+.txt-60{
+    font-size: 70px;
+}
+.ft-wt{
+    font-weight: bolder;
+    font-size: 35px;
+}
+.w-d{
+    width: 300px;
+    margin-top: 25px;
+}
+.un-od{
+    padding:30px  40px;
+}
+.li-txt{
+    font-size: 22px;
+}
+.ui-image li{
+    list-style-type: none;
+    padding-left: px;
+    background-image: url("so-checkmark.svg");
+    background-position: top left;
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+}
+.pd-lft{
+    margin-right: 105px;
+}
+.btt5{
+    background-color: #ffc2c0;
+    border: 3px solid;
+    border-radius: 50px ;
+    margin-bottom: 30px;
+    width: 370px;
+    height:55px;
+    opacity: 0.3;
+}
+.btt6{
+    background-color: #c77e7c;
+    border-radius: 50px ;
+    width: 370px;
+    height:55px;
+    margin-bottom: 30px;
+}
+.last{
+    background-color: #041227;
+    width: 1580px;
+    height: 400px;
+}
+.pd-tp{
+    padding-top: 50px;
+}
+.cent img{
+    width: 200px;
+}
+.fini{
+    justify-content: space-between;
+
+}
+.p-18{
+    /* margin-left : 38px; */
+}
